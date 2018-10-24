@@ -1,8 +1,4 @@
-#include <iostream>
-#include <fstream>
-#include <cassert>
-
-using namespace std;
+#include "AddressItem.h";
 
 int main() {
 	
