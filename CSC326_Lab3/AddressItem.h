@@ -1,7 +1,7 @@
 /*
 Jiali Chen
 Lab 3 - Linked List
-In Lab 3, we use a linked implementation stack to store distinct IP addresses that are read-in from file.
+In Lab 3, we use a linked implementation list to store distinct IP addresses that are read-in from file.
 In the IP address holder class, AddressItem, we revisit CSC 211 concepts (friend function & overloaded operators).
 */
 
