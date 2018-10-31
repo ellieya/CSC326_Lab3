@@ -1,7 +1,7 @@
 ﻿  driver.cpp
-c:\users\khleys\source\repos\csc326_lab3\csc326_lab3\linkedlist.h(44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-  c:\users\khleys\source\repos\csc326_lab3\csc326_lab3\linkedlist.h(50): note: see reference to class template instantiation 'LinkedList<ItemType>' being compiled
-c:\users\khleys\source\repos\csc326_lab3\csc326_lab3\linkedlist.h(49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-c:\users\khleys\source\repos\csc326_lab3\csc326_lab3\linkedlist.cpp(148): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-c:\users\khleys\source\repos\csc326_lab3\csc326_lab3\linkedlist.cpp(166): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
-  CSC326_Lab3.vcxproj -> C:\Users\Khleys\Source\Repos\CSC326_Lab3\x64\Debug\CSC326_Lab3.exe
+c:\users\jiali.chen\source\repos\csc326_lab3\csc326_lab3\linkedlist.h(44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  c:\users\jiali.chen\source\repos\csc326_lab3\csc326_lab3\linkedlist.h(50): note: see reference to class template instantiation 'LinkedList<ItemType>' being compiled
+c:\users\jiali.chen\source\repos\csc326_lab3\csc326_lab3\linkedlist.h(49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\jiali.chen\source\repos\csc326_lab3\csc326_lab3\linkedlist.cpp(148): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+c:\users\jiali.chen\source\repos\csc326_lab3\csc326_lab3\linkedlist.cpp(166): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  CSC326_Lab3.vcxproj -> C:\Users\jiali.chen\source\repos\CSC326_Lab3\x64\Debug\CSC326_Lab3.exe
