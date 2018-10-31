@@ -85,3 +85,32 @@ void print(LinkedList<AddressItem> main_list) {
 	}
 }
 
+/*
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+OUTPUT
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / / /
+
+Match not found. Creating new entry for address 111.111.11.11(1).
+Match not found. Creating new entry for address 222.222.22.22(1).
+Match not found. Creating new entry for address 333.333.33.33(1).
+Match not found. Creating new entry for address 444.444.44.44(1).
+Match not found. Creating new entry for address 555.555.55.55(1).
+Match found. Address 555.555.55.55(2)'s value has been increased.
+Match found. Address 555.555.55.55(3)'s value has been increased.
+Match found. Address 555.555.55.55(4)'s value has been increased.
+Match found. Address 444.444.44.44(2)'s value has been increased.
+Match found. Address 444.444.44.44(3)'s value has been increased.
+Match found. Address 333.333.33.33(2)'s value has been increased.
+Match found. Address 333.333.33.33(3)'s value has been increased.
+Match found. Address 555.555.55.55(5)'s value has been increased.
+Match found. Address 222.222.22.22(2)'s value has been increased.
+Match found. Address 444.444.44.44(4)'s value has been increased.
+
+Printing final results...
+111.111.11.11(1)
+222.222.22.22(2)
+333.333.33.33(3)
+444.444.44.44(4)
+555.555.55.55(5)
+
+*/
